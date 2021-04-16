@@ -4,7 +4,7 @@ import { View, Text } from 'react-native';
 export default function Search() {
 	return (
 		<View>
-			<Text> Search </Text>
+			<Text> en construccion </Text>
 		</View>
 	);
 }
